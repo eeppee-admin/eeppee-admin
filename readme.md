@@ -10,16 +10,19 @@
 什么都是假的，只有鸡巴插进逼里才是真的
 </h2>
 
-![bro love fucking](./fuckingshot/00.jpg)
-![bro love fucking](./fuckingshot/01.jpg)
-![bro love fucking](./fuckingshot/02.jpg)
-![bro love fucking](./fuckingshot/03.jpg)
-![bro love fucking](./fuckingshot/04.jpg)
+<img src="./fuckingshot/00.jpg" width="300" height="auto">
+<img src="./fuckingshot/01.jpg" width="300" height="auto">
+<img src="./fuckingshot/02.jpg" width="300" height="auto">
+<img src="./fuckingshot/03.jpg" width="300" height="auto">
+<img src="./fuckingshot/04.jpg" width="300" height="auto">
+<img src="./fuckingshot/05.jpg" width="300" height="auto">
+
 </details>
 
 <details>
   <summary>Me?</summary>
 
 我不是写代码的好手，我只是网络小丑。
-But anyway, fuck you who is reading this content!
+[![GitHub Streak](https://streak-stats.demolab.com/?user=eeppee-admin)](https://git.io/streak-stats)
+
 </details>
